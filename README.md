@@ -32,7 +32,6 @@ The CNN performed best, achieving **99.10% test accuracy** with only 90 incorrec
 * TensorFlow / Keras
 * Pillow
 * Flask
-* Docker
 * Jupyter Notebook
 
 ## Features
@@ -42,7 +41,6 @@ The CNN performed best, achieving **99.10% test accuracy** with only 90 incorrec
 * CNN-based image recognition
 * Saved trained model using Keras
 * Flask web application
-* Dockerized deployment
 
 ## Project Structure
 
@@ -52,7 +50,6 @@ handwritten-digit-recognition/
 ├── web_app.py
 ├── mnist_cnn.keras
 ├── requirements.txt
-├── Dockerfile
 ├── .gitignore
 └── mist_training.ipynb
 ```
