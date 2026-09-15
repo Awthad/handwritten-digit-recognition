@@ -77,25 +77,6 @@ Then open:
 http://localhost:5000
 ```
 
-## Docker
-
-Build the Docker image:
-
-```bash
-docker build -t digit-recognition .
-```
-
-Run the container:
-
-```bash
-docker run -p 5000:5000 digit-recognition
-```
-
-Then open:
-
-```text
-http://localhost:5000
-```
 
 ## Future Improvements
 
